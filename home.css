@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.tt{
+    height: 70px;
+    width: 80px;
+}
+.hh:hover{
+    transform: scale(1.05);
+    border-radius: 20px;
+}
+.qq{
+    height: 20vh;
+    width: 70vw;
+    margin: 10px;
+}
+.mm{
+    height: 130px;
+    width: 150px;
+}
+.ee{
+    height: 30vh;
+    width: 30vw;
+    margin: 10px;
+}
+.yy{
+    height: 15vh;
+    width: 50vw;
+    margin: 10px;
+}
+.head{
+    font-family: serif;
+    font-size: 35px;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+}
+.para{
+    text-align: center;
+    font-size: 20px;
+}
+.uu{
+    height: 45vh;
+    width: 20vw;
+    margin: 10px;
+}
+.ii{
+    height: 45vh;
+    width: 20vw;
+    margin: 10px;
+}
+.bg{
+    background-color: antiquewhite;
+}
+.me{
+    height: 55vh;
+    width: 30vw;
+    margin: 10px;
+}
+.au{
+    height: 25vh;
+    width: 15vw;
+    margin: 10px;
+}
+.aut{
+    position: relative;
+    right: 600px;
+    top: 300px;
+   height: 25vh;
+   width: 15vw;
+}
+.aup{
+    position: relative;
+    right: 290px;
+    top: 50px;
+   height: 25vh;
+   width: 15vw;
+}

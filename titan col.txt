@@ -1,0 +1,26 @@
+ <div class="col">
+                <div class="d-flex flex-row justify-content-center">
+                <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dwc8887c27/images/sale_.jpg" class="hh"/>
+                <p class="para">Sale</p>
+                <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dw1d15f863/images/Bestseller_thumb.jpg" class="hh"/>
+                <p class="para">Bestsellers</p>
+                    <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dw0c68edb6/images/men_.jpg" class="hh"/>
+                    <p class="para">Men</p>
+                <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dwb8df3006/images/women.jpg" class="hh"/>
+                <p class="para">Women</p>
+                <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dw43a80cbb/images/kids.jpg" class="hh"/>
+                <p class="para">Kids</p>
+                <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dw34276b43/images/New_Arrivals_thumb.jpg" class="hh"/>
+                <p class="para">New Arrivals</p>
+                <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dwff30f749/images/ragaB.jpg" class="hh"/>
+                <p class="para">Raga</p>
+                <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dw07037e98/images/couple.jpg" class="hh"/> 
+                <p class="para">Couple/p>
+                    <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dw73a3bc3e/images/clock.jpg" class="hh"/> 
+                    <p class="para">Clocks</p>
+                    <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dw5188cbbe/images/luxe.jpg" class="hh"/> 
+                    <p class="para">Luxe</p>
+                    <img src="https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/dwa60efba7/images/Smart_thumb.jpg" class="hh"/> 
+                    <p class="para">Smart</p>
+            </div>
+        </div>
